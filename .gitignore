@@ -1,9 +1,7 @@
 /vendor
 /storage/*.key
 /.idea
-/.vscode
 /.phpunit.result.cache
-/.env
 /.env.backup
 npm-debug.log
 yarn-error.log
@@ -14,3 +12,5 @@ Thumbs.db
 /storage/framework/testing
 /storage/framework/views
 /bootstrap/cache/*.php
+config.bat
+node_modules
