@@ -89,3 +89,4 @@ Route::prefix('v1')->group(function () {
 - php artisan migrate --seed
 = php artisan serve
 - Run On postman / Swager or any others platform 
+- SQL file in Root directory DB folder 

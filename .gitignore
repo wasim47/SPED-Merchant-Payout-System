@@ -1,0 +1,16 @@
+/vendor
+/storage/*.key
+/.idea
+/.vscode
+/.phpunit.result.cache
+/.env
+/.env.backup
+npm-debug.log
+yarn-error.log
+.DS_Store
+Thumbs.db
+/storage/framework/cache/data
+/storage/framework/sessions
+/storage/framework/testing
+/storage/framework/views
+/bootstrap/cache/*.php
