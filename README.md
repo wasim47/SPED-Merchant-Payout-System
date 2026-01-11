@@ -83,7 +83,7 @@ Route::prefix('v1')->group(function () {
 
 ## How to Run
 
-- composer install
+- composer install/update
 - cp .env.example .env
 - Change DB Name
 - php artisan migrate --seed
